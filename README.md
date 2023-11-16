@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @zhryzq
-- 👀 I'm interested in programming
+- 👀 I'm interested in... I don't think so :v
 - 🌱 I'm currently learning React and GO
 
 <!---
