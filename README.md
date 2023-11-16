@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @zhryzq
+- 👋 Hi, I'm @kyzens
 - 👀 I'm interested in... I don't think so :v
 - 🌱 I'm currently learning React and GO
 
