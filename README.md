@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @kyzens
 - 👀 I'm interested in... I don't think so :v
-- 🌱 I'm currently learning React and GO
+- 🌱 I'm currently learning Go & React
 
 <!---
 zhryzq/zhryzq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
